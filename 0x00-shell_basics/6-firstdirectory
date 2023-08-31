@@ -1,2 +1,2 @@
 #!/bin/bash
-mv Betty /tmp/my_first_directory/Betty
+ls -lan
